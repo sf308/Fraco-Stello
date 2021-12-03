@@ -74,6 +74,8 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 300px;
+    width: 300px;
   }
 
   .card-img-top card-header {
